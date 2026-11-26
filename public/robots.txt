@@ -1,0 +1,6 @@
+# Robots.txt for Konter B-Cell Sangatta (https://servicehpsangatta.com)
+User-agent: *
+Allow: /
+
+# Crawler Directives
+Sitemap: https://servicehpsangatta.com/sitemap.xml
